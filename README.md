@@ -1,4 +1,4 @@
-### Oi 👋, Seja Bem Vindo!
+### Oi 👋, seja bem vindo!
 Sou um desenvolvedor web apaixonado por tecnologia. Estou sempre em busca de coisas novas para aprender e desafios para supera-los. Atualmente trabalhando com PHP 🔛 Vue.js 🏰
 
 ### O que eu costumo fazer:
