@@ -3,7 +3,7 @@ Sou um desenvolvedor web apaixonado por tecnologia. Estou sempre em busca de coi
 
 ### O que eu costumo fazer:
 - 💻 Projetos utilizando Laravel
-- ⚙️ Montagem e Manutenção de servidores Ubuntu para Ngnix.
+- ⚙️ Montagem e Manutenção de servidores Ubuntu com Ngnix/Apache2.
 - 🔬 Experimentos com arduíno 😍 
 - 💻 Trabalhos freelance (às vezes)
 
