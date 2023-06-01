@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+# Bem-vindo! 👋
 
 Sou um entusiasta da programação apaixonado por resolver problemas e criar soluções inovadoras. 💡
 
