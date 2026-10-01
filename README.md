@@ -1,24 +1,31 @@
-# Bem-vindo! 👋
+# Olá! 👋
 
-Sou um entusiasta da programação apaixonado por resolver problemas e criar soluções inovadoras. 💡
+Sou desenvolvedor de software com mais de 10 anos de experiência, principalmente com **PHP, Laravel e desenvolvimento de sistemas web**.
 
-## Tecnologias em que sou especialista 🚀
+Gosto de transformar problemas do dia a dia em software simples, organizado e que realmente funcione. Tenho bastante interesse por **backend, arquitetura, performance e automação**, mas também atuo no frontend quando o projeto precisa.
 
-- 🌐 PHP com Laravel: Desenvolvimento de aplicativos web robustos, eficientes e escaláveis utilizando o poderoso framework Laravel.
-- 🖥️ Vue.js: Criação de interfaces de usuário interativas e responsivas usando o framework Vue.js.
+## No que trabalho
 
-- 🐍 Python: Automação, análise de dados e desenvolvimento de aplicativos utilizando a linguagem Python.
+* **PHP / Laravel**: APIs, sistemas web, integrações, autenticação, filas, jobs e aplicações de negócio.
+* **Vue.js**: desenvolvimento de interfaces para aplicações web e sistemas administrativos.
+* **MySQL / MariaDB**: modelagem, consultas e otimização.
+* **Redis**: cache, filas e processamento assíncrono.
+* **Python**: automação, ferramentas e integrações.
+* **C#**: aplicações desktop e integrações com sistemas Windows.
+* **MQL5**: desenvolvimento de robôs e ferramentas para trading.
+* **Linux / Docker**: ambientes de desenvolvimento, servidores e deploy.
+* **Git**: versionamento e organização de projetos.
 
-- 📱 Flutter: Desenvolvimento de aplicativos móveis multiplataforma de alta qualidade com o Flutter.
+## O que você vai encontrar por aqui
 
-- 💻 C#: Criação de aplicativos Windows.
+Alguns projetos são experimentos, outros nasceram de necessidades reais.
 
-- 🐚 Shell Script: Automação de tarefas e scripts personalizados para facilitar o fluxo de trabalho.
+Gosto de estudar uma tecnologia colocando a mão no código, testar ideias e descobrir até onde dá para levar uma solução. Por isso, este GitHub mistura projetos web, automações, ferramentas, integrações e alguns experimentos.
 
-- 🐧 Linux: Uso do sistema operacional Linux e suas ferramentas para desenvolvimento e administração de servidores.
+Nem tudo aqui é um produto acabado. Algumas coisas são simplesmente parte do processo de aprender, testar e construir.
 
-- ⚙️ Arduino: Criação de projetos eletrônicos e prototipagem rápida com a plataforma Arduino.
+## Contato
 
-- 🚀 Outras tecnologias: Estou sempre em busca de novos conhecimentos e aprendendo outras tecnologias que possam enriquecer minhas habilidades.
+Se quiser trocar uma ideia sobre desenvolvimento, Laravel, arquitetura, automação ou algum projeto, pode me chamar.
 
-Se você está procurando colaborar em projetos interessantes ou deseja discutir ideias, não hesite em entrar em contato! Vamos construir coisas incríveis juntos. 🤝😊
+[LinkedIn](https://www.linkedin.com/in/irafaelfurtado/)
